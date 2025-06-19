@@ -1,0 +1,1 @@
+C:\Users\antho\Desktop\Unity\Github\Mel-the-blacksmith\Mel The BlackSmith\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\Debug\3m4q246u\obj\arm64-v8a

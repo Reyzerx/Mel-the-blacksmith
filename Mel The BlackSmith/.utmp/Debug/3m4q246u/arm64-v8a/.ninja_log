@@ -1,0 +1,12 @@
+# ninja log v5
+134	615	7720159837422585	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	9be269be00b62afc
+618	1134	7720159842093501	C:/Users/antho/Desktop/Unity/Github/Mel-the-blacksmith/Mel The BlackSmith/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/3m4q246u/obj/arm64-v8a/libswappywrapper.so	468445faf7d48f4f
+1	1488	7720159846077651	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	e572d1e3659e978
+91	1497	7720159846032202	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	6d588b2e8559a69b
+113	1510	7720159846310147	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	95f1a2b7c2c8b1c0
+44	1521	7720159846420572	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	47d208bf2396be90
+74	1531	7720159846552528	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	b8f0847c13b31a84
+29	1566	7720159846910013	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	3a58823c6f81df92
+58	1664	7720159847891458	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	eed6b7cc9abd4fce
+15	1740	7720159848576981	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	7f2788e5fbdc766c
+1740	1903	7720159850313656	C:/Users/antho/Desktop/Unity/Github/Mel-the-blacksmith/Mel The BlackSmith/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/3m4q246u/obj/arm64-v8a/libgame.so	7d503c23cc81fd4a
