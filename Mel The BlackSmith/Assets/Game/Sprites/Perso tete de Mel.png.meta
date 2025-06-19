@@ -1,169 +1,160 @@
 fileFormatVersion: 2
-guid: 92798cd53e1c450499b4f8954b9b1d71
+guid: 9122565ab0681574ca82530c4fc8e59b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2311659948842064771
-    second: Player_0
+      213: 3515209620256209864
+    second: Perso tete de Mel_0
   - first:
-      213: 7364682651488144517
-    second: Player_1
+      213: 371165657598452383
+    second: Perso tete de Mel_1
   - first:
-      213: -6287787046888575383
-    second: Player_2
+      213: 4797588258703459088
+    second: Perso tete de Mel_2
   - first:
-      213: -1182821291677670348
-    second: Player_3
+      213: -5518517604565715342
+    second: Perso tete de Mel_3
   - first:
-      213: -4709456396536258026
-    second: Player_4
+      213: 8966680739929891485
+    second: Perso tete de Mel_4
   - first:
-      213: -4529042392078601758
-    second: Player_5
+      213: 7514792886610370589
+    second: Perso tete de Mel_5
   - first:
-      213: -7446026091647042388
-    second: Player_6
+      213: -8253893473605470422
+    second: Perso tete de Mel_6
   - first:
-      213: 5938012242645255967
-    second: Player_7
+      213: -2684846030523274853
+    second: Perso tete de Mel_7
   - first:
-      213: -4245738604243887485
-    second: Player_8
+      213: -1153876233110990685
+    second: Perso tete de Mel_8
   - first:
-      213: 2473453845335418800
-    second: Player_9
+      213: -6965594972735354676
+    second: Perso tete de Mel_9
   - first:
-      213: -3287367053296241113
-    second: Player_10
+      213: -1332495300517045419
+    second: Perso tete de Mel_10
   - first:
-      213: -5319882733741912588
-    second: Player_11
+      213: 5778317146394761763
+    second: Perso tete de Mel_11
   - first:
-      213: 7365574002475698461
-    second: Player_12
+      213: -1340575272673215281
+    second: Perso tete de Mel_12
   - first:
-      213: 6472545519820947264
-    second: Player_13
+      213: 5963232681815922979
+    second: Perso tete de Mel_13
   - first:
-      213: -2472340072831945791
-    second: Player_14
+      213: 1615781051122711963
+    second: Perso tete de Mel_14
   - first:
-      213: 4681514556078180949
-    second: Player_15
+      213: 4054155269901613366
+    second: Perso tete de Mel_15
   - first:
-      213: -2521826894279438384
-    second: Player_16
+      213: 4781070731557455540
+    second: Perso tete de Mel_16
   - first:
-      213: -7338765713033929952
-    second: Player_17
+      213: 7842562071313071929
+    second: Perso tete de Mel_17
   - first:
-      213: 1522305984107872113
-    second: Player_18
+      213: 4627791784794882562
+    second: Perso tete de Mel_18
   - first:
-      213: -661973496601677656
-    second: Player_19
+      213: -3019436977266661107
+    second: Perso tete de Mel_19
   - first:
-      213: -5989208844104669019
-    second: Player_20
+      213: -3248816410280533580
+    second: Perso tete de Mel_20
   - first:
-      213: -620360788158790383
-    second: Player_21
+      213: 1353487613090627585
+    second: Perso tete de Mel_21
   - first:
-      213: 5007636379019871947
-    second: Player_22
+      213: -4647144654244161347
+    second: Perso tete de Mel_22
   - first:
-      213: 585951966842662488
-    second: Player_23
+      213: 1995827412824977391
+    second: Perso tete de Mel_23
   - first:
-      213: -5324252115843577105
-    second: Player_24
+      213: 4939156101233087565
+    second: Perso tete de Mel_24
   - first:
-      213: 802321206317977270
-    second: Player_25
+      213: -5156184334010218014
+    second: Perso tete de Mel_25
   - first:
-      213: -2531074035140014093
-    second: Player_26
+      213: -130916225489837071
+    second: Perso tete de Mel_26
   - first:
-      213: 2425571995158539275
-    second: Player_27
+      213: 2787682982709111755
+    second: Perso tete de Mel_27
   - first:
-      213: 7504173757061796091
-    second: Player_28
+      213: -2526225240551011892
+    second: Perso tete de Mel_28
   - first:
-      213: -482043112589295754
-    second: Player_29
+      213: 1770615129386100599
+    second: Perso tete de Mel_29
   - first:
-      213: 5858650361913189150
-    second: Player_30
+      213: 2044087012354422877
+    second: Perso tete de Mel_30
   - first:
-      213: -8673286262977101647
-    second: Player_31
+      213: 5235684361545522051
+    second: Perso tete de Mel_31
   - first:
-      213: -5582666879068068913
-    second: Player_32
+      213: 9195555103106299198
+    second: Perso tete de Mel_32
   - first:
-      213: -1143793458617422335
-    second: Player_33
+      213: -2608733272318117814
+    second: Perso tete de Mel_33
   - first:
-      213: -3357028997785511978
-    second: Player_34
+      213: -8858522184717492698
+    second: Perso tete de Mel_34
   - first:
-      213: -1287317561693210830
-    second: Player_35
+      213: -6803246981266916820
+    second: Perso tete de Mel_35
   - first:
-      213: -880019952005955485
-    second: Player_36
+      213: 1612916586316489108
+    second: Perso tete de Mel_36
   - first:
-      213: -2236138401977818221
-    second: Player_37
+      213: -1710990413606199285
+    second: Perso tete de Mel_37
   - first:
-      213: 444229463124618271
-    second: Player_38
+      213: -8983949607945793933
+    second: Perso tete de Mel_38
   - first:
-      213: 4058882637061436657
-    second: Player_39
+      213: 7983769478682202215
+    second: Perso tete de Mel_39
   - first:
-      213: -6654760982662145220
-    second: Player_40
+      213: -2579106490092895762
+    second: Perso tete de Mel_40
   - first:
-      213: -1644491751466927929
-    second: Player_41
+      213: 1763255364181738962
+    second: Perso tete de Mel_41
   - first:
-      213: 840494989937961389
-    second: Player_42
+      213: -8537738053011119809
+    second: Perso tete de Mel_42
   - first:
-      213: 7595658228077749015
-    second: Player_43
+      213: -8687498171602866232
+    second: Perso tete de Mel_43
   - first:
-      213: -2981845286574036419
-    second: Player_44
+      213: -6090164605227539970
+    second: Perso tete de Mel_44
   - first:
-      213: -7788624319470281706
-    second: Player_45
+      213: 3230898766755640094
+    second: Perso tete de Mel_45
   - first:
-      213: -6084218201566942072
-    second: Player_46
+      213: 9141990779759473694
+    second: Perso tete de Mel_46
   - first:
-      213: -2938239205550241072
-    second: Player_47
+      213: -150234082820899840
+    second: Perso tete de Mel_47
   - first:
-      213: 39037826329288984
-    second: Player_48
+      213: -7841985454890275448
+    second: Perso tete de Mel_48
   - first:
-      213: 6591604299041279620
-    second: Player_49
+      213: -6087344249955513275
+    second: Perso tete de Mel_49
   - first:
-      213: -6860566288110525432
-    second: Player_50
-  - first:
-      213: 8972628740631471832
-    second: Player_51
-  - first:
-      213: -7838076412869566698
-    second: Player_52
-  - first:
-      213: 8558285431152173748
-    second: Player_53
+      213: -6012558550168631026
+    second: Perso tete de Mel_50
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -210,7 +201,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 16
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -235,8 +226,8 @@ TextureImporter:
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0
-    compressionQuality: 100
-    crunchedCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
     ignorePlatformSupport: 0
@@ -259,7 +250,7 @@ TextureImporter:
     buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: 50
+    textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -272,13 +263,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Player_0
+      name: Perso tete de Mel_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 288
-        width: 32
-        height: 32
+        x: 12
+        y: 293
+        width: 17
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -287,20 +278,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d7465c336855befd0800000000000000
-      internalID: -2311659948842064771
+      spriteID: 8cb3866768888c030800000000000000
+      internalID: 3515209620256209864
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_1
+      name: Perso tete de Mel_1
       rect:
         serializedVersion: 2
-        x: 32
-        y: 288
-        width: 32
-        height: 32
+        x: 44
+        y: 293
+        width: 17
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -309,20 +300,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 58cce6d0adb943660800000000000000
-      internalID: 7364682651488144517
+      spriteID: f92eaf5f235a62500800000000000000
+      internalID: 371165657598452383
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_2
+      name: Perso tete de Mel_2
       rect:
         serializedVersion: 2
-        x: 64
-        y: 288
-        width: 32
-        height: 32
+        x: 76
+        y: 293
+        width: 17
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -331,20 +322,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 96e67e6befa4db8a0800000000000000
-      internalID: -6287787046888575383
+      spriteID: 013ca924a15749240800000000000000
+      internalID: 4797588258703459088
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_3
+      name: Perso tete de Mel_3
       rect:
         serializedVersion: 2
-        x: 96
-        y: 288
-        width: 32
-        height: 32
+        x: 108
+        y: 293
+        width: 17
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -353,20 +344,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 434a8c45d46c59fe0800000000000000
-      internalID: -1182821291677670348
+      spriteID: 276fe1d1a794a63b0800000000000000
+      internalID: -5518517604565715342
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_4
+      name: Perso tete de Mel_4
       rect:
         serializedVersion: 2
-        x: 128
-        y: 288
-        width: 32
-        height: 32
+        x: 140
+        y: 293
+        width: 17
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -375,20 +366,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 612e34feb56a4aeb0800000000000000
-      internalID: -4709456396536258026
+      spriteID: d92abdd10ac007c70800000000000000
+      internalID: 8966680739929891485
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_5
+      name: Perso tete de Mel_5
       rect:
         serializedVersion: 2
-        x: 160
-        y: 288
-        width: 32
-        height: 32
+        x: 172
+        y: 293
+        width: 17
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -397,20 +388,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2e13877b0fb9521c0800000000000000
-      internalID: -4529042392078601758
+      spriteID: d102b07b058e94860800000000000000
+      internalID: 7514792886610370589
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_6
+      name: Perso tete de Mel_6
       rect:
         serializedVersion: 2
-        x: 0
-        y: 256
-        width: 32
-        height: 32
+        x: 13
+        y: 261
+        width: 17
+        height: 25
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -419,20 +410,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cac761b68b66aa890800000000000000
-      internalID: -7446026091647042388
+      spriteID: a27b4d3ed97447d80800000000000000
+      internalID: -8253893473605470422
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_7
+      name: Perso tete de Mel_7
       rect:
         serializedVersion: 2
-        x: 32
-        y: 256
-        width: 32
-        height: 32
+        x: 45
+        y: 261
+        width: 17
+        height: 25
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -441,20 +432,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f178aca7cae086250800000000000000
-      internalID: 5938012242645255967
+      spriteID: b99ea0a92c28dbad0800000000000000
+      internalID: -2684846030523274853
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_8
+      name: Perso tete de Mel_8
       rect:
         serializedVersion: 2
-        x: 64
-        y: 256
-        width: 32
-        height: 32
+        x: 77
+        y: 261
+        width: 17
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -463,20 +454,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 38a51ecfb3b1415c0800000000000000
-      internalID: -4245738604243887485
+      spriteID: 3a057a2fdab9cffe0800000000000000
+      internalID: -1153876233110990685
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_9
+      name: Perso tete de Mel_9
       rect:
         serializedVersion: 2
-        x: 96
-        y: 256
-        width: 32
-        height: 32
+        x: 109
+        y: 261
+        width: 17
+        height: 25
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -485,20 +476,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0b7aa8bda29735220800000000000000
-      internalID: 2473453845335418800
+      spriteID: cc8ccd0174c355f90800000000000000
+      internalID: -6965594972735354676
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_10
+      name: Perso tete de Mel_10
       rect:
         serializedVersion: 2
-        x: 128
-        y: 256
-        width: 32
-        height: 32
+        x: 141
+        y: 261
+        width: 17
+        height: 25
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -507,20 +498,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 72674fd051de062d0800000000000000
-      internalID: -3287367053296241113
+      spriteID: 55bddc38596028de0800000000000000
+      internalID: -1332495300517045419
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_11
+      name: Perso tete de Mel_11
       rect:
         serializedVersion: 2
-        x: 160
-        y: 256
-        width: 32
-        height: 32
+        x: 173
+        y: 261
+        width: 17
+        height: 25
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -529,20 +520,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4fd4490f6dafb26b0800000000000000
-      internalID: -5319882733741912588
+      spriteID: 32a986e64d4b03050800000000000000
+      internalID: 5778317146394761763
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_12
+      name: Perso tete de Mel_12
       rect:
         serializedVersion: 2
-        x: 0
-        y: 224
-        width: 32
-        height: 32
+        x: 12
+        y: 229
+        width: 17
+        height: 27
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -551,20 +542,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d198a60e786c73660800000000000000
-      internalID: 7365574002475698461
+      spriteID: fccf3a564e1556de0800000000000000
+      internalID: -1340575272673215281
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_13
+      name: Perso tete de Mel_13
       rect:
         serializedVersion: 2
-        x: 32
-        y: 224
-        width: 32
-        height: 32
+        x: 44
+        y: 229
+        width: 17
+        height: 27
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -573,20 +564,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 04f39757bd913d950800000000000000
-      internalID: 6472545519820947264
+      spriteID: 32953a09788a1c250800000000000000
+      internalID: 5963232681815922979
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_14
+      name: Perso tete de Mel_14
       rect:
         serializedVersion: 2
-        x: 64
-        y: 224
-        width: 32
-        height: 32
+        x: 76
+        y: 229
+        width: 17
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -595,20 +586,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1c373e28dcb70bdd0800000000000000
-      internalID: -2472340072831945791
+      spriteID: b9df9f22e486c6610800000000000000
+      internalID: 1615781051122711963
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_15
+      name: Perso tete de Mel_15
       rect:
         serializedVersion: 2
-        x: 96
-        y: 224
-        width: 32
-        height: 32
+        x: 108
+        y: 229
+        width: 17
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -617,20 +608,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 55a4cdd5fa418f040800000000000000
-      internalID: 4681514556078180949
+      spriteID: 63973c6fcb0434830800000000000000
+      internalID: 4054155269901613366
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_16
+      name: Perso tete de Mel_16
       rect:
         serializedVersion: 2
-        x: 128
-        y: 224
-        width: 32
-        height: 32
+        x: 140
+        y: 229
+        width: 17
+        height: 27
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -639,20 +630,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0df82750dcba00dd0800000000000000
-      internalID: -2521826894279438384
+      spriteID: 4b6cf78cf76c95240800000000000000
+      internalID: 4781070731557455540
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_17
+      name: Perso tete de Mel_17
       rect:
         serializedVersion: 2
-        x: 160
-        y: 224
-        width: 32
-        height: 32
+        x: 172
+        y: 229
+        width: 17
+        height: 27
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -661,20 +652,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 02bdbc86777772a90800000000000000
-      internalID: -7338765713033929952
+      spriteID: 93f3195f6a066dc60800000000000000
+      internalID: 7842562071313071929
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_18
+      name: Perso tete de Mel_18
       rect:
         serializedVersion: 2
-        x: 0
-        y: 192
-        width: 32
-        height: 32
+        x: 12
+        y: 197
+        width: 17
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -683,20 +674,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 17f733e1a31502510800000000000000
-      internalID: 1522305984107872113
+      spriteID: 2028b23fb18393040800000000000000
+      internalID: 4627791784794882562
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_19
+      name: Perso tete de Mel_19
       rect:
         serializedVersion: 2
-        x: 32
-        y: 192
-        width: 32
-        height: 32
+        x: 44
+        y: 197
+        width: 17
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -705,20 +696,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8a07554bc9230d6f0800000000000000
-      internalID: -661973496601677656
+      spriteID: d09675c111ec816d0800000000000000
+      internalID: -3019436977266661107
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_20
+      name: Perso tete de Mel_20
       rect:
         serializedVersion: 2
-        x: 64
-        y: 192
-        width: 32
-        height: 32
+        x: 76
+        y: 197
+        width: 17
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -727,20 +718,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5a86389d94e02eca0800000000000000
-      internalID: -5989208844104669019
+      spriteID: 4b1e4c410b2e9e2d0800000000000000
+      internalID: -3248816410280533580
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_21
+      name: Perso tete de Mel_21
       rect:
         serializedVersion: 2
-        x: 96
-        y: 192
-        width: 32
-        height: 32
+        x: 108
+        y: 197
+        width: 17
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -749,20 +740,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 115c63566290467f0800000000000000
-      internalID: -620360788158790383
+      spriteID: 100882220dd88c210800000000000000
+      internalID: 1353487613090627585
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_22
+      name: Perso tete de Mel_22
       rect:
         serializedVersion: 2
-        x: 128
-        y: 192
-        width: 32
-        height: 32
+        x: 140
+        y: 197
+        width: 17
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -771,20 +762,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bc68dcf41c2be7540800000000000000
-      internalID: 5007636379019871947
+      spriteID: db8dbeffe86028fb0800000000000000
+      internalID: -4647144654244161347
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_23
+      name: Perso tete de Mel_23
       rect:
         serializedVersion: 2
-        x: 160
-        y: 192
-        width: 32
-        height: 32
+        x: 172
+        y: 197
+        width: 17
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -793,20 +784,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 85e29179538b12800800000000000000
-      internalID: 585951966842662488
+      spriteID: fef6b66257a92bb10800000000000000
+      internalID: 1995827412824977391
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_24
+      name: Perso tete de Mel_24
       rect:
         serializedVersion: 2
-        x: 0
-        y: 160
-        width: 32
-        height: 32
+        x: 13
+        y: 165
+        width: 17
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -815,20 +806,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fea8584e8e47c16b0800000000000000
-      internalID: -5324252115843577105
+      spriteID: d4493382e486b8440800000000000000
+      internalID: 4939156101233087565
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_25
+      name: Perso tete de Mel_25
       rect:
         serializedVersion: 2
-        x: 32
-        y: 160
-        width: 32
-        height: 32
+        x: 45
+        y: 165
+        width: 17
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -837,20 +828,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6be8852e2ea622b00800000000000000
-      internalID: 802321206317977270
+      spriteID: 2e903e6baad8178b0800000000000000
+      internalID: -5156184334010218014
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_26
+      name: Perso tete de Mel_26
       rect:
         serializedVersion: 2
-        x: 64
-        y: 160
-        width: 32
-        height: 32
+        x: 77
+        y: 165
+        width: 17
+        height: 27
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -859,20 +850,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3ffc3434391dfdcd0800000000000000
-      internalID: -2531074035140014093
+      spriteID: 1f3e754f264ee2ef0800000000000000
+      internalID: -130916225489837071
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_27
+      name: Perso tete de Mel_27
       rect:
         serializedVersion: 2
-        x: 96
-        y: 160
-        width: 32
-        height: 32
+        x: 109
+        y: 165
+        width: 17
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -881,20 +872,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b0c6f8cd0ec59a120800000000000000
-      internalID: 2425571995158539275
+      spriteID: bcb27ca27e6dfa620800000000000000
+      internalID: 2787682982709111755
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_28
+      name: Perso tete de Mel_28
       rect:
         serializedVersion: 2
-        x: 128
-        y: 160
-        width: 32
-        height: 32
+        x: 141
+        y: 165
+        width: 17
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -903,20 +894,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bf01a72f54e242860800000000000000
-      internalID: 7504173757061796091
+      spriteID: cc9c45a378b01fcd0800000000000000
+      internalID: -2526225240551011892
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_29
+      name: Perso tete de Mel_29
       rect:
         serializedVersion: 2
-        x: 160
-        y: 160
-        width: 32
-        height: 32
+        x: 173
+        y: 165
+        width: 17
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -925,20 +916,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 67ff0b3d7507f49f0800000000000000
-      internalID: -482043112589295754
+      spriteID: 777adfc341d729810800000000000000
+      internalID: 1770615129386100599
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_30
+      name: Perso tete de Mel_30
       rect:
         serializedVersion: 2
-        x: 0
-        y: 128
-        width: 32
-        height: 32
+        x: 12
+        y: 133
+        width: 17
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -947,20 +938,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e13ac05b67b1e4150800000000000000
-      internalID: 5858650361913189150
+      spriteID: d58ff55ce4e0e5c10800000000000000
+      internalID: 2044087012354422877
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_31
+      name: Perso tete de Mel_31
       rect:
         serializedVersion: 2
-        x: 32
-        y: 128
-        width: 32
-        height: 32
+        x: 44
+        y: 133
+        width: 17
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -969,20 +960,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1b089fbc81c42a780800000000000000
-      internalID: -8673286262977101647
+      spriteID: 38b1dfddf23e8a840800000000000000
+      internalID: 5235684361545522051
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_32
+      name: Perso tete de Mel_32
       rect:
         serializedVersion: 2
-        x: 64
-        y: 128
-        width: 32
-        height: 32
+        x: 76
+        y: 133
+        width: 17
+        height: 27
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -991,20 +982,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fc32fcd3d026682b0800000000000000
-      internalID: -5582666879068068913
+      spriteID: e357e2965ac2d9f70800000000000000
+      internalID: 9195555103106299198
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_33
+      name: Perso tete de Mel_33
       rect:
         serializedVersion: 2
-        x: 96
-        y: 128
-        width: 32
-        height: 32
+        x: 108
+        y: 133
+        width: 17
+        height: 27
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1013,20 +1004,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 10e61b2d8ed6020f0800000000000000
-      internalID: -1143793458617422335
+      spriteID: a487cb519eaebcbd0800000000000000
+      internalID: -2608733272318117814
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_34
+      name: Perso tete de Mel_34
       rect:
         serializedVersion: 2
-        x: 128
-        y: 128
-        width: 32
-        height: 32
+        x: 140
+        y: 133
+        width: 17
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1035,20 +1026,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6d71f4ea9ef6961d0800000000000000
-      internalID: -3357028997785511978
+      spriteID: 62e1ff8e105301580800000000000000
+      internalID: -8858522184717492698
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_35
+      name: Perso tete de Mel_35
       rect:
         serializedVersion: 2
-        x: 160
-        y: 128
-        width: 32
-        height: 32
+        x: 172
+        y: 133
+        width: 17
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1057,20 +1048,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 23777268f77822ee0800000000000000
-      internalID: -1287317561693210830
+      spriteID: c2a365a6ae20691a0800000000000000
+      internalID: -6803246981266916820
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_36
+      name: Perso tete de Mel_36
       rect:
         serializedVersion: 2
-        x: 0
-        y: 96
-        width: 32
-        height: 32
+        x: 9
+        y: 101
+        width: 20
+        height: 23
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1079,20 +1070,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 360cd65248a89c3f0800000000000000
-      internalID: -880019952005955485
+      spriteID: 491eab3f61b326610800000000000000
+      internalID: 1612916586316489108
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_37
+      name: Perso tete de Mel_37
       rect:
         serializedVersion: 2
-        x: 32
-        y: 96
-        width: 32
-        height: 32
+        x: 35
+        y: 94
+        width: 36
+        height: 31
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1101,20 +1092,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 393a08198f3a7f0e0800000000000000
-      internalID: -2236138401977818221
+      spriteID: b0067e6b8475148e0800000000000000
+      internalID: -1710990413606199285
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_38
+      name: Perso tete de Mel_38
       rect:
         serializedVersion: 2
-        x: 64
-        y: 96
-        width: 32
-        height: 32
+        x: 76
+        y: 101
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1123,20 +1114,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f1c2e44d7583a2600800000000000000
-      internalID: 444229463124618271
+      spriteID: 37e816a3e69925380800000000000000
+      internalID: -8983949607945793933
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_39
+      name: Perso tete de Mel_39
       rect:
         serializedVersion: 2
-        x: 96
-        y: 96
-        width: 32
-        height: 32
+        x: 108
+        y: 101
+        width: 17
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1145,20 +1136,42 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1f43c07e04c045830800000000000000
-      internalID: 4058882637061436657
+      spriteID: 76055718a0c0cce60800000000000000
+      internalID: 7983769478682202215
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_40
+      name: Perso tete de Mel_40
       rect:
         serializedVersion: 2
-        x: 0
+        x: 13
+        y: 69
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee1cb1cdf4c253cd0800000000000000
+      internalID: -2579106490092895762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso tete de Mel_41
+      rect:
+        serializedVersion: 2
+        x: 37
         y: 64
-        width: 32
-        height: 32
+        width: 34
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1167,20 +1180,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c3b1b4b052a85a3a0800000000000000
-      internalID: -6654760982662145220
+      spriteID: 2d5ca5e5967587810800000000000000
+      internalID: 1763255364181738962
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_41
+      name: Perso tete de Mel_42
       rect:
         serializedVersion: 2
-        x: 32
-        y: 64
-        width: 32
-        height: 32
+        x: 72
+        y: 67
+        width: 22
+        height: 25
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1189,20 +1202,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7c8f0c507779d29e0800000000000000
-      internalID: -1644491751466927929
+      spriteID: f31efe4c97cd38980800000000000000
+      internalID: -8537738053011119809
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_42
+      name: Perso tete de Mel_43
       rect:
         serializedVersion: 2
-        x: 64
-        y: 64
-        width: 32
-        height: 32
+        x: 109
+        y: 69
+        width: 17
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1211,20 +1224,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: da96fbe7db90aab00800000000000000
-      internalID: 840494989937961389
+      spriteID: 8cf61c6f07ecf6780800000000000000
+      internalID: -8687498171602866232
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_43
+      name: Perso tete de Mel_44
       rect:
         serializedVersion: 2
-        x: 96
-        y: 64
-        width: 32
-        height: 32
+        x: 12
+        y: 37
+        width: 19
+        height: 23
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1233,20 +1246,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 713e8d73ae2396960800000000000000
-      internalID: 7595658228077749015
+      spriteID: ef161c10f836b7ba0800000000000000
+      internalID: -6090164605227539970
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_44
+      name: Perso tete de Mel_45
       rect:
         serializedVersion: 2
-        x: 0
-        y: 32
-        width: 32
-        height: 32
+        x: 35
+        y: 37
+        width: 58
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1255,20 +1268,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d3ae496a28b5e96d0800000000000000
-      internalID: -2981845286574036419
+      spriteID: e13b7b17f4576dc20800000000000000
+      internalID: 3230898766755640094
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_45
+      name: Perso tete de Mel_46
       rect:
         serializedVersion: 2
-        x: 32
-        y: 32
-        width: 32
-        height: 32
+        x: 108
+        y: 37
+        width: 17
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1277,20 +1290,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 61c5105827f39e390800000000000000
-      internalID: -7788624319470281706
+      spriteID: e14b5778d20eede70800000000000000
+      internalID: 9141990779759473694
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_46
+      name: Perso tete de Mel_47
       rect:
         serializedVersion: 2
-        x: 64
-        y: 32
-        width: 32
-        height: 32
+        x: 13
+        y: 5
+        width: 17
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1299,20 +1312,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 88ce2aff7c3809ba0800000000000000
-      internalID: -6084218201566942072
+      spriteID: 00cbd4cc5e24aedf0800000000000000
+      internalID: -150234082820899840
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_47
+      name: Perso tete de Mel_48
       rect:
         serializedVersion: 2
-        x: 96
-        y: 32
-        width: 32
-        height: 32
+        x: 45
+        y: 5
+        width: 19
+        height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1321,20 +1334,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0da4d0092074937d0800000000000000
-      internalID: -2938239205550241072
+      spriteID: 88d2c7307cbab2390800000000000000
+      internalID: -7841985454890275448
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_48
+      name: Perso tete de Mel_49
       rect:
         serializedVersion: 2
-        x: 128
-        y: 32
-        width: 32
-        height: 32
+        x: 77
+        y: 5
+        width: 21
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1343,20 +1356,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 811292b32b0ba8000800000000000000
-      internalID: 39037826329288984
+      spriteID: 54c82e328a8658ba0800000000000000
+      internalID: -6087344249955513275
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player_49
+      name: Perso tete de Mel_50
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 32
-        height: 32
+        x: 109
+        y: 5
+        width: 21
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1365,96 +1378,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 48e0b48af251a7b50800000000000000
-      internalID: 6591604299041279620
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Player_50
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 804e62f4f4f5ac0a0800000000000000
-      internalID: -6860566288110525432
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Player_51
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8d6acc2fc4e258c70800000000000000
-      internalID: 8972628740631471832
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Player_52
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 61f9a88c70f893390800000000000000
-      internalID: -7838076412869566698
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Player_53
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4b2e932814325c670800000000000000
-      internalID: 8558285431152173748
+      spriteID: e0906f1cad91f8ca0800000000000000
+      internalID: -6012558550168631026
       vertices: []
       indices: 
       edges: []
@@ -1463,7 +1388,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 14e70c4091420494bad8b05f3cb6ec92
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -1473,60 +1398,57 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Player_0: -2311659948842064771
-      Player_1: 7364682651488144517
-      Player_10: -3287367053296241113
-      Player_11: -5319882733741912588
-      Player_12: 7365574002475698461
-      Player_13: 6472545519820947264
-      Player_14: -2472340072831945791
-      Player_15: 4681514556078180949
-      Player_16: -2521826894279438384
-      Player_17: -7338765713033929952
-      Player_18: 1522305984107872113
-      Player_19: -661973496601677656
-      Player_2: -6287787046888575383
-      Player_20: -5989208844104669019
-      Player_21: -620360788158790383
-      Player_22: 5007636379019871947
-      Player_23: 585951966842662488
-      Player_24: -5324252115843577105
-      Player_25: 802321206317977270
-      Player_26: -2531074035140014093
-      Player_27: 2425571995158539275
-      Player_28: 7504173757061796091
-      Player_29: -482043112589295754
-      Player_3: -1182821291677670348
-      Player_30: 5858650361913189150
-      Player_31: -8673286262977101647
-      Player_32: -5582666879068068913
-      Player_33: -1143793458617422335
-      Player_34: -3357028997785511978
-      Player_35: -1287317561693210830
-      Player_36: -880019952005955485
-      Player_37: -2236138401977818221
-      Player_38: 444229463124618271
-      Player_39: 4058882637061436657
-      Player_4: -4709456396536258026
-      Player_40: -6654760982662145220
-      Player_41: -1644491751466927929
-      Player_42: 840494989937961389
-      Player_43: 7595658228077749015
-      Player_44: -2981845286574036419
-      Player_45: -7788624319470281706
-      Player_46: -6084218201566942072
-      Player_47: -2938239205550241072
-      Player_48: 39037826329288984
-      Player_49: 6591604299041279620
-      Player_5: -4529042392078601758
-      Player_50: -6860566288110525432
-      Player_51: 8972628740631471832
-      Player_52: -7838076412869566698
-      Player_53: 8558285431152173748
-      Player_6: -7446026091647042388
-      Player_7: 5938012242645255967
-      Player_8: -4245738604243887485
-      Player_9: 2473453845335418800
+      Perso tete de Mel_0: 3515209620256209864
+      Perso tete de Mel_1: 371165657598452383
+      Perso tete de Mel_10: -1332495300517045419
+      Perso tete de Mel_11: 5778317146394761763
+      Perso tete de Mel_12: -1340575272673215281
+      Perso tete de Mel_13: 5963232681815922979
+      Perso tete de Mel_14: 1615781051122711963
+      Perso tete de Mel_15: 4054155269901613366
+      Perso tete de Mel_16: 4781070731557455540
+      Perso tete de Mel_17: 7842562071313071929
+      Perso tete de Mel_18: 4627791784794882562
+      Perso tete de Mel_19: -3019436977266661107
+      Perso tete de Mel_2: 4797588258703459088
+      Perso tete de Mel_20: -3248816410280533580
+      Perso tete de Mel_21: 1353487613090627585
+      Perso tete de Mel_22: -4647144654244161347
+      Perso tete de Mel_23: 1995827412824977391
+      Perso tete de Mel_24: 4939156101233087565
+      Perso tete de Mel_25: -5156184334010218014
+      Perso tete de Mel_26: -130916225489837071
+      Perso tete de Mel_27: 2787682982709111755
+      Perso tete de Mel_28: -2526225240551011892
+      Perso tete de Mel_29: 1770615129386100599
+      Perso tete de Mel_3: -5518517604565715342
+      Perso tete de Mel_30: 2044087012354422877
+      Perso tete de Mel_31: 5235684361545522051
+      Perso tete de Mel_32: 9195555103106299198
+      Perso tete de Mel_33: -2608733272318117814
+      Perso tete de Mel_34: -8858522184717492698
+      Perso tete de Mel_35: -6803246981266916820
+      Perso tete de Mel_36: 1612916586316489108
+      Perso tete de Mel_37: -1710990413606199285
+      Perso tete de Mel_38: -8983949607945793933
+      Perso tete de Mel_39: 7983769478682202215
+      Perso tete de Mel_4: 8966680739929891485
+      Perso tete de Mel_40: -2579106490092895762
+      Perso tete de Mel_41: 1763255364181738962
+      Perso tete de Mel_42: -8537738053011119809
+      Perso tete de Mel_43: -8687498171602866232
+      Perso tete de Mel_44: -6090164605227539970
+      Perso tete de Mel_45: 3230898766755640094
+      Perso tete de Mel_46: 9141990779759473694
+      Perso tete de Mel_47: -150234082820899840
+      Perso tete de Mel_48: -7841985454890275448
+      Perso tete de Mel_49: -6087344249955513275
+      Perso tete de Mel_5: 7514792886610370589
+      Perso tete de Mel_50: -6012558550168631026
+      Perso tete de Mel_6: -8253893473605470422
+      Perso tete de Mel_7: -2684846030523274853
+      Perso tete de Mel_8: -1153876233110990685
+      Perso tete de Mel_9: -6965594972735354676
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

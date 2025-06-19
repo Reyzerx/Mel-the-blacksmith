@@ -12,11 +12,22 @@ public class PlayerMouvement : MonoBehaviour
 
     public float speed;
 
+    Animator anim;
+    private Vector2 lastMoveDirection;
+    private bool facingLeft = false;
+
+    // public Sprite visageObjet;
+    // public Sprite visageBas;
+    // public Sprite visageGauche;
+    // public Sprite visageDroite;
+    // public Sprite visageHaut;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         rigidBodyPlayer = this.GetComponent<Rigidbody2D>();
         speed = 15f;
+        anim = GetComponent<Animator>();
     }
 
     // Update is called once per frame
@@ -27,6 +38,27 @@ public class PlayerMouvement : MonoBehaviour
 
         joyHorizontal = joystick.Horizontal * speed;
         joyVertical = joystick.Vertical * speed;
+
+
+        //ANIMATION
+        if ((joyHorizontal == 0 && joyVertical == 0) && (joyMovement.x != 0 || joyMovement.y != 0))
+        {
+            lastMoveDirection = joyMovement;
+        }
+
+        if (joyMovement.x < 0 && !facingLeft || joyMovement.x > 0 && facingLeft)
+        {
+            Vector3 scale = transform.localScale;
+            scale.x *= -1;
+            transform.localScale = scale;
+            facingLeft = !facingLeft;
+        }
+
+        anim.SetFloat("LastMoveX", lastMoveDirection.x);
+        anim.SetFloat("LastMoveY", lastMoveDirection.y);
+        anim.SetFloat("speed", joyMovement.sqrMagnitude);
+        anim.SetFloat("MoveX", joyMovement.x);
+        anim.SetFloat("MoveY", joyMovement.y);
     }
 
     void FixedUpdate()
