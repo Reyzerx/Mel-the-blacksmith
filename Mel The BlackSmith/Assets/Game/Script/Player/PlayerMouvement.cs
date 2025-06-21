@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class PlayerMouvement : MonoBehaviour
 {
-    private Rigidbody2D rigidBodyPlayer; 
+    private Rigidbody2D rigidBodyPlayer;
     private float horizontal;
     private float vertical;
     private float joyHorizontal;
@@ -16,16 +16,15 @@ public class PlayerMouvement : MonoBehaviour
     private Vector2 lastMoveDirection;
     private bool facingLeft = false;
 
-    // public Sprite visageObjet;
-    // public Sprite visageBas;
-    // public Sprite visageGauche;
-    // public Sprite visageDroite;
-    // public Sprite visageHaut;
+    private PlayerCore playerCore;
+
+    public bool isMovementBlocked = false;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         rigidBodyPlayer = this.GetComponent<Rigidbody2D>();
+        playerCore = this.GetComponent<PlayerCore>();
         speed = 15f;
         anim = GetComponent<Animator>();
     }
@@ -35,6 +34,7 @@ public class PlayerMouvement : MonoBehaviour
     {
         // horizontal = Input.GetAxisRaw("Horizontal");
         // vertical = Input.GetAxisRaw("Vertical");
+
 
         joyHorizontal = joystick.Horizontal * speed;
         joyVertical = joystick.Vertical * speed;
@@ -63,7 +63,19 @@ public class PlayerMouvement : MonoBehaviour
 
     void FixedUpdate()
     {
-        joyMovement = new Vector2(joyHorizontal, joyVertical);//.normalized
-        rigidBodyPlayer.linearVelocity = new Vector3(joyMovement.x * speed, joyMovement.y * speed) * Time.fixedDeltaTime;
+        if (isMovementBlocked)
+        {
+            rigidBodyPlayer.linearVelocity = Vector2.zero;
+        }
+        else
+        {
+            joyMovement = new Vector2(joyHorizontal, joyVertical);//.normalized
+            rigidBodyPlayer.linearVelocity = new Vector3(joyMovement.x * speed, joyMovement.y * speed) * Time.fixedDeltaTime;
+        }
+    }
+
+    public void SetMovementBlocked(bool blocked)
+    {
+        isMovementBlocked = blocked;
     }
 }
