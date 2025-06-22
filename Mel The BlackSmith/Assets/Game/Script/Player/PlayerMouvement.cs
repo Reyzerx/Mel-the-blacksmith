@@ -25,7 +25,6 @@ public class PlayerMouvement : MonoBehaviour
     {
         rigidBodyPlayer = this.GetComponent<Rigidbody2D>();
         playerCore = this.GetComponent<PlayerCore>();
-        speed = 15f;
         anim = GetComponent<Animator>();
     }
 

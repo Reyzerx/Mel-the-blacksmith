@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 01f7e1a4595e1114a8936fc43aa5b511, type: 3}
-  m_Name: Emeraude
+  m_Name: Cuivre
   m_EditorClassIdentifier: 
   itemName: Cuivre
   description: Un minerai de cuivre
