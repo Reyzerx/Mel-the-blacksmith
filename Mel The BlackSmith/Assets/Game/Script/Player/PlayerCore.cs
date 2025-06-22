@@ -17,12 +17,16 @@ public class PlayerCore : MonoBehaviour
     // Référence au bouton UI (assignée dans l’inspecteur)
     public Button actionButton;
     private PlayerMouvement mouvementScript;
+    public MiniGameController miniGameControllerScript;
+
+    // private float miniGameStartTime;
+    // public float minDelayBeforeValidation = 0.3f;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         // Assure-toi que ce script gère bien le clic sur le bouton UI
-        actionButton.onClick.AddListener(OnActionButtonPressed);
+        //actionButton.onClick.AddListener(OnActionButtonPressed);
 
         mouvementScript = this.GetComponent<PlayerMouvement>();
     }
@@ -39,11 +43,19 @@ public class PlayerCore : MonoBehaviour
             case PlayerState.NearMineable:
                 Debug.Log("Démarrage du mini-jeu");
                 mouvementScript.SetMovementBlocked(true);
+                // miniGameStartTime = Time.time;// enregistrer l'heure de début
                 // Exemple : lancer mini-jeu ici
                 currentState = PlayerState.InMiniGame;
                 break;
             case PlayerState.InMiniGame:
+                // if (Time.time - miniGameStartTime < minDelayBeforeValidation)
+                // {
+                //     Debug.Log("Clic ignoré : attente minimum non atteinte");
+                //     return;
+                // }
+
                 Debug.Log("Validation du mini-jeu");
+                miniGameControllerScript.CheckSuccess();
                 mouvementScript.SetMovementBlocked(false);
                 // Exemple : valider mini-jeu ici
                 currentState = PlayerState.Idle;

@@ -38,7 +38,7 @@ public class PlayerMiniGameInterractionMinerai : MonoBehaviour
         }
         else
         {
-            //Debug.LogWarning("Mini-jeu non démarré : item ou inventory manquant.");
+            Debug.LogWarning("Mini-jeu non démarré : item ou inventory manquant.");
         }
     }
 }

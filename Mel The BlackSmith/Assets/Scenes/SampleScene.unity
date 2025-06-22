@@ -1267,6 +1267,7 @@ MonoBehaviour:
   currentState: 0
   inventory: {fileID: 599822275}
   actionButton: {fileID: 2077795731}
+  miniGameControllerScript: {fileID: 1855731498}
 --- !u!114 &599822277
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2077,7 +2078,8 @@ MonoBehaviour:
   greenZone: {fileID: 265402599}
   actionButton: {fileID: 2077795731}
   speed: 2
-  successRange: 20
+  successRange: 0.2
+  inventoryUIManager: {fileID: 1743512824}
 --- !u!114 &1855731499
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2277,7 +2279,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 2077795732}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 599822276}
+        m_TargetAssemblyTypeName: PlayerCore, Assembly-CSharp
+        m_MethodName: OnActionButtonPressed
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &2077795732
 MonoBehaviour:
   m_ObjectHideFlags: 0

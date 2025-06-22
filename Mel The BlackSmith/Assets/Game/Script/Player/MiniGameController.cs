@@ -18,10 +18,12 @@ public class MiniGameController : MonoBehaviour
     private float leftBound = -1.3f;
     private float rightBound = 1.3f;
 
+    public InventoryUIManager inventoryUIManager;
+
     void Start()
     {
         gameObject.SetActive(false);
-        actionButton.onClick.AddListener(CheckSuccess);
+        //actionButton.onClick.AddListener(CheckSuccess);
     }
 
     public void StartMiniGame(WorldItem item, Inventory inv)
@@ -50,6 +52,7 @@ public class MiniGameController : MonoBehaviour
         bar.anchoredPosition = new Vector2(leftBound, 0);
         float greenX = Random.Range(leftBound + 0.3f, rightBound - 0.3f);
         greenZone.anchoredPosition = new Vector2(greenX, 0);
+        greenZone.sizeDelta = new Vector2(successRange * 2f, greenZone.sizeDelta.y);
     }
 
     IEnumerator MoveBar()
@@ -68,24 +71,30 @@ public class MiniGameController : MonoBehaviour
         }
     }
 
-    void CheckSuccess()
+    public void CheckSuccess()
     {
         if (targetItem == null || inventory == null)
         {
-            //Debug.LogWarning("MiniGameController: targetItem ou inventory est null !");
+            Debug.LogWarning("MiniGameController: targetItem ou inventory est null !");
             return;
         }
 
         float dist = Mathf.Abs(bar.anchoredPosition.x - greenZone.anchoredPosition.x);
         bool success = dist < successRange;
+        
+        Debug.Log($"Distance = {dist} | Success Range = {successRange} | SUCCESS = {success}");
 
         int qty = targetItem.quantity;
-        if (success) qty *= 2;
+        if (success)
+        {
+            qty *= 2;
+        }
 
         inventory.AddItem(targetItem.item, qty);
         Destroy(targetItem.gameObject);
 
         StopAllCoroutines();
+        inventoryUIManager.RefreshInventoryUI();
         gameObject.SetActive(false);
     }
 }
